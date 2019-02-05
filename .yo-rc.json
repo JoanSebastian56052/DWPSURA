@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "dwpsura",
+    "libraryId": "bc8685fc-f46d-4e68-9f83-6bd52a67b4e4",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
